@@ -3,7 +3,7 @@ package Library;
 import java.util.ArrayList;
 import java.util.List;
 
-public class BookRunner {
+class BookRunner {
     int id;
     String name,author,publisher;
     int quantity;
